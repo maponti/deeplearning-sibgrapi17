@@ -9,10 +9,8 @@ Authors: Moacir A. Ponti 1, Leonardo S. F. Ribeiro 1, Tiago S. Nazare 1, Tu Bui 
 (1) ICMC - Universidade de São Paulo
 (2) CVSSP - University of Surrey
 
-## Materials, Slides, Papers:
-
+## Materials, Slides, Papers, etc.:
 ### [Link to the Tutorial Webpage with Slides and Others](http://www.icmc.usp.br/pessoas/moacir/p17sibgrapi-tutorial/)
-
 ### [Link to the Tutorial Paper](http://www.icmc.usp.br/pessoas/moacir/p17sibgrapi-tutorial/2017-SIBGRAPI_Tutorial-Survey_Paper-Deep_Learning_for_Computer_Vision.pdf)
 
 
